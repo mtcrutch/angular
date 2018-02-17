@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "es6-module-loader": "^0.9.2",
-    "googleapis": "1.0.x",
+    "googleapis": "12.1.0",
     "gulp-insert": "^0.4.0",
     "gulp-modify": "0.0.4",
     "gulp-replace": "^0.5.3",
